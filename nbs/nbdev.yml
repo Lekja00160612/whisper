@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "whisper"
+  site-url: "https://Lekja00160612.github.io/whisper"
+  description: "test nbdev and OpenAI whisper"
+  repo-branch: main
+  repo-url: "https://github.com/Lekja00160612/whisper"
